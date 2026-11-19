@@ -1,0 +1,11 @@
+ticket_id,opened,category,priority,hours_open,resolved
+T-1001,2026-11-02,network,high,6.5,yes
+T-1002,2026-11-02,voip,medium,22.0,yes
+T-1003,2026-11-03,hardware,low,70.5,no
+T-1004,2026-11-03,network,high,4.0,yes
+T-1005,2026-11-04,software,medium,18.25,yes
+T-1006,2026-11-04,voip,high,9.75,no
+T-1007,2026-11-05,network,low,49.0,yes
+T-1008,2026-11-05,hardware,medium,30.0,no
+T-1009,2026-11-06,software,high,3.5,yes
+T-1010,2026-11-06,network,medium,15.0,yes
